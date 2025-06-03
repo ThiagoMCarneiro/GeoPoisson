@@ -16,6 +16,12 @@ Then the user must install de package using devtools and the appropriate path:
 devtools::install_github("ThiagoMCarneiro/GeoPoisson")
 library(GeoPoisson)
 ```
+Use the packages below:
+
+```r
+library(MASS)
+library(matrix)
+```
 
 Finally, to use the main function:
 
