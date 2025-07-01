@@ -20,7 +20,7 @@ Use the packages below:
 
 ```r
 library(MASS)
-library(matrix)
+library(Matrix)
 ```
 
 Finally, to use the main function:
